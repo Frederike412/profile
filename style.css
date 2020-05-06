@@ -1,0 +1,64 @@
+@import url("http://fonts.googleapis.com/css?family=Open+Sans:400,300,700|Poppins:300,400,500,700");
+@import url("https://coolors.co/1c0f13-2c252a-3d3b41-4d5257-5e686e-6e7e85-b7cece-b9c4ca-bbbac6-e2e2e2");
+@import url("https://de.videezy.com/abstrakt/36733-vogelperspektive-von-schnellbooten-auf-dem-meer-nahe-strandstadt-pattaya-thailand")
+
+body {
+  background-color: #E2E2E2;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: lighter;
+}
+
+
+.card-white {
+  background: white;
+  padding: 40px;
+  box-shadow: 0px 10px 30px;
+  border-radius: 4px;
+  margin: 20px auto;
+  text-align: center;
+}
+
+.div{
+  background: white;
+  padding: 30px;
+  border-radius: 4px;
+  box-shadow: 0 10px 30px rgba(0,0,0,.1);
+  width: 300px;
+  margin: auto;
+}
+
+.container {
+  width: 500px;
+  height: 500px;
+  margin: 0 auto;
+}
+
+.list-inline > li {
+  display: inline-block;
+  padding: 0px 20px;
+  font-size: 25px;
+}
+
+.list-inline {
+  list-style: none;
+  padding-left: 0px;
+}
+
+.btn-blue {
+  background-color: #9a8c98;
+  color: white;
+  padding: : 20px 20px;
+  border-radius: 4px
+}
+
+.fab {
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  text-rendering: auto;
+  line-height: 1;
+}
+
+.background {
+  background-clip:<a href="http://www.videezy.com">Stock-Footage von Videezy!</a>;
+}
